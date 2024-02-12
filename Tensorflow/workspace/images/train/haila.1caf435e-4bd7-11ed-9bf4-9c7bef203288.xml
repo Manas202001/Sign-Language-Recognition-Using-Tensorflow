@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>haila.1caf435e-4bd7-11ed-9bf4-9c7bef203288.jpg</filename>
+	<path>C:\Users\manas-pc\RealTimeObjectDetection-main\Tensorflow\workspace\images\collectedimages\haila.1caf435e-4bd7-11ed-9bf4-9c7bef203288.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>haila</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>276</xmin>
+			<ymin>154</ymin>
+			<xmax>482</xmax>
+			<ymax>324</ymax>
+		</bndbox>
+	</object>
+</annotation>
